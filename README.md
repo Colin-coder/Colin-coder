@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Colin-coder)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Colin-coder" />\
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colin-coder&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=Colin-coder" />\
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colin-coder&layout=compact" />
